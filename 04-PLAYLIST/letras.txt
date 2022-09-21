@@ -764,3 +764,15 @@ COLORES:
 3er color:#6992F0
 4to color:#5573D9
 5to color:#5772FF
+- Paleta 3
+1er color:#000000
+2do color:#7F55D4
+3er color:#A66AEB
+4to color:#AB6BD6
+5to color:#DA82FA
+- Paleta 4
+1er color:#08023D
+2do color:#030E87
+3er color:#06059E
+4to color:#05209E
+5to color:#FFFFFF
