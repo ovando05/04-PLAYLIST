@@ -1,7 +1,22 @@
-/* comentario css */
-p {
-    color: aqua;
+body{
+    background-color:  #513ED6;
 }
-h1{
-    color: blueviolet;
+p {
+ color: #FFFFFF;
+}
+
+table{
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+}
+
+td{
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    text-align: center;
 }
